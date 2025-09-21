@@ -1,0 +1,283 @@
+{
+    "team_categories": {
+        "presidents": {
+            "title": "Presidents",
+            "icon": "\ud83d\udc51",
+            "color": "from-purple-400 to-purple-600",
+            "members": [
+                {
+                    "name": "Ahmed Hassan",
+                    "position": "President",
+                    "avatar": "A",
+                    "bio": "Visionary leader passionate about transforming education through technology. Leads the strategic direction and innovation initiatives.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "ahmed@verse26.com"
+                    }
+                }
+            ]
+        },
+        "high_board": {
+            "title": "High Board",
+            "icon": "\ud83c\udfdb\ufe0f",
+            "color": "from-blue-400 to-blue-600",
+            "members": [
+                {
+                    "name": "Sarah Mohamed",
+                    "position": "Vice President",
+                    "avatar": "S",
+                    "bio": "Strategic leader with expertise in educational technology and community building. Oversees platform development and user experience.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "sarah@verse26.com"
+                    }
+                },
+                {
+                    "name": "Mohamed Ali",
+                    "position": "Secretary General",
+                    "avatar": "M",
+                    "bio": "Organizational expert ensuring smooth operations and effective communication across all departments and stakeholders.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "mohamed@verse26.com"
+                    }
+                }
+            ]
+        },
+        "board": {
+            "title": "Board Members",
+            "icon": "\ud83d\udc65",
+            "color": "from-green-400 to-green-600",
+            "members": [
+                {
+                    "name": "Fatma Ibrahim",
+                    "position": "Board Member",
+                    "avatar": "F",
+                    "bio": "Creative strategist focused on user experience and platform innovation. Drives design excellence and user engagement.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "fatma@verse26.com"
+                    }
+                },
+                {
+                    "name": "Omar Khalil",
+                    "position": "Board Member",
+                    "avatar": "O",
+                    "bio": "Data-driven decision maker who transforms analytics into actionable strategies for platform growth and improvement.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "omar@verse26.com"
+                    }
+                }
+            ]
+        },
+        "heads": {
+            "title": "Department Heads",
+            "icon": "\ud83c\udfaf",
+            "color": "from-orange-400 to-orange-600",
+            "members": [
+                {
+                    "name": "Layla Ahmed",
+                    "position": "Head of Community",
+                    "avatar": "L",
+                    "bio": "Community building expert who nurtures our learning ecosystem and ensures every user feels supported and motivated.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "layla@verse26.com"
+                    }
+                },
+                {
+                    "name": "Youssef Mahmoud",
+                    "position": "Head of Technology",
+                    "avatar": "Y",
+                    "bio": "Technical leader overseeing platform architecture, security, and performance optimization for seamless user experience.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "youssef@verse26.com"
+                    }
+                },
+                {
+                    "name": "Nour El-Din",
+                    "position": "Head of Content",
+                    "avatar": "N",
+                    "bio": "Educational content specialist ensuring high-quality questions and comprehensive learning materials across all categories.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "nour@verse26.com"
+                    }
+                }
+            ]
+        },
+        "vice_heads": {
+            "title": "Vice Heads",
+            "icon": "\ud83d\udd27",
+            "color": "from-teal-400 to-teal-600",
+            "members": [
+                {
+                    "name": "Mariam Hassan",
+                    "position": "Vice Head of Design",
+                    "avatar": "M",
+                    "bio": "Creative designer focused on creating intuitive and engaging user experiences that make learning enjoyable and accessible.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "mariam@verse26.com"
+                    }
+                },
+                {
+                    "name": "Khaled Mostafa",
+                    "position": "Vice Head of Development",
+                    "avatar": "K",
+                    "bio": "Full-stack developer with expertise in modern web technologies. Crafts beautiful, performant, and user-friendly experiences.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "khaled@verse26.com"
+                    }
+                }
+            ]
+        },
+        "instructors": {
+            "title": "Instructors",
+            "icon": "\ud83d\udcda",
+            "color": "from-indigo-400 to-indigo-600",
+            "members": [
+                {
+                    "name": "Amina Farouk",
+                    "position": "Senior Instructor",
+                    "avatar": "A",
+                    "bio": "Experienced educator specializing in interactive learning methodologies and student engagement strategies.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "amina@verse26.com"
+                    }
+                },
+                {
+                    "name": "Tarek Salah",
+                    "position": "Instructor",
+                    "avatar": "T",
+                    "bio": "Subject matter expert in science and technology, creating engaging content that makes complex topics accessible.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "tarek@verse26.com"
+                    }
+                },
+                {
+                    "name": "Dina Youssef",
+                    "position": "Instructor",
+                    "avatar": "D",
+                    "bio": "Literature and history specialist who brings stories to life through interactive quizzes and engaging educational content.",
+                    "social": {
+                        "linkedin": "#",
+                        "twitter": "#",
+                        "email": "dina@verse26.com"
+                    }
+                }
+            ]
+        }
+    },
+    "mission_vision": {
+        "mission": {
+            "title": "Our Mission",
+            "icon": "\ud83c\udfaf",
+            "description": "To democratize education by creating an engaging, accessible, and interactive learning platform that empowers learners of all ages to discover, explore, and master knowledge through gamified experiences.",
+            "color": "from-blue-500 to-purple-600"
+        },
+        "vision": {
+            "title": "Our Vision",
+            "icon": "\ud83c\udf1f",
+            "description": "To become the world's leading educational platform where learning is not just effective but truly enjoyable, fostering a global community of curious minds and lifelong learners.",
+            "color": "from-purple-500 to-pink-600"
+        },
+        "values": {
+            "title": "Our Core Values",
+            "icon": "\ud83d\udc8e",
+            "items": [
+                {
+                    "title": "Excellence in Education",
+                    "description": "Delivering the highest quality educational content and experiences",
+                    "icon": "\ud83c\udfc6"
+                },
+                {
+                    "title": "Innovation & Creativity",
+                    "description": "Continuously evolving our platform with cutting-edge technology",
+                    "icon": "\ud83d\udca1"
+                },
+                {
+                    "title": "Community Building",
+                    "description": "Fostering connections and collaboration among learners worldwide",
+                    "icon": "\ud83e\udd1d"
+                },
+                {
+                    "title": "Accessibility & Inclusion",
+                    "description": "Making quality education accessible to everyone, everywhere",
+                    "icon": "\ud83c\udf0d"
+                },
+                {
+                    "title": "Continuous Learning",
+                    "description": "Embracing growth mindset and lifelong learning principles",
+                    "icon": "\ud83d\udcc8"
+                }
+            ],
+            "color": "from-green-500 to-teal-600"
+        }
+    },
+    "features": {
+        "title": "Platform Features",
+        "subtitle": "Discover the powerful features that make Verse'26 Quiz the ultimate learning experience",
+        "items": [
+            {
+                "title": "Smart Categories",
+                "description": "Choose from 8 diverse categories including Science, History, Literature, and more. Each category is carefully curated to provide comprehensive learning.",
+                "icon": "\ud83c\udfaf",
+                "color": "from-blue-400 to-blue-600"
+            },
+            {
+                "title": "Live Leaderboard",
+                "description": "Compete with fellow learners in real-time. Track your progress, climb the rankings, and celebrate your achievements with the community.",
+                "icon": "\ud83c\udfc6",
+                "color": "from-yellow-400 to-orange-600"
+            },
+            {
+                "title": "Detailed Analytics",
+                "description": "Get comprehensive insights into your performance. Identify strengths, track improvement areas, and optimize your learning strategy.",
+                "icon": "\ud83d\udcca",
+                "color": "from-green-400 to-green-600"
+            },
+            {
+                "title": "Real-time Progress",
+                "description": "Track your quiz progress in real-time with visual indicators, timers, and instant feedback to keep you motivated.",
+                "icon": "\u26a1",
+                "color": "from-purple-400 to-purple-600"
+            },
+            {
+                "title": "Beautiful Design",
+                "description": "Enjoy a stunning, responsive interface with light\/dark themes, smooth animations, and intuitive navigation.",
+                "icon": "\ud83c\udfa8",
+                "color": "from-pink-400 to-rose-600"
+            },
+            {
+                "title": "Secure & Reliable",
+                "description": "Your data is protected with enterprise-grade security. Enjoy a reliable platform that's always available when you need it.",
+                "icon": "\ud83d\udd12",
+                "color": "from-gray-400 to-gray-600"
+            },
+            {
+                "title": "Secure & Reliable",
+                "description": "Your data is protected with enterprise-grade security. Enjoy a reliable platform that's always available when you need it.",
+                "icon": "\ud83d\udd12",
+                "color": "from-gray-400 to-gray-600"
+            }
+        ]
+    }
+}
